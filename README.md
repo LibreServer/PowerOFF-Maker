@@ -1,0 +1,2 @@
+# PowerOFF-Maker
+#StopGPLViolations
