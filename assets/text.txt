@@ -1,0 +1,8 @@
+[size=20][color=#FFFFFF]This anti-cheat has been seized as part of Operation AntiFrap.
+Operation AntiFrap is an international effort focused on exposing
+and shutting down anti-cheat solutions that violate open-source licenses and fail to provide effective protection.
+Anti-cheat incompetence is unacceptable. For years, experts have analyzed and exposed weak
+detection methods, GPL violations, and misleading claims about cheat prevention.
+Our commission has thoroughly reviewed this anti-cheat and concluded that it contains shit quality checks, offering no real security.
+Anyone involved in the development or distribution of such
+anti-cheat software is subject to scrutiny, legal consequences, and well-deserved public humiliation.[/color][/size]

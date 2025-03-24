@@ -1,0 +1,36 @@
+{
+  "image": {
+    "width": 1200,
+    "height": 675,
+    "background": "background.png"
+  },
+  "text": {
+    "file": "text.txt",
+    "position": {
+      "x": 20,
+      "y": 420
+    },
+    "max_width": 800,
+    "default_font": "Montserrat-Regular.ttf",
+    "default_size": 20,
+    "default_color": "#FFFFFF"
+  },
+  "title": {
+    "text": "OPERATION ANTIFRAP",
+    "position": {
+      "x": 20,
+      "y": 360
+    },
+    "font": "Montserrat-Bold.ttf",
+    "size": 40,
+    "color": "#FFFFFF"
+  },
+  "icons": {
+    "position": {
+      "x": 1190,
+      "y": 10
+    },
+    "spacing": 100,
+    "size": 96
+  }
+}
